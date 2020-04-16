@@ -1,0 +1,10 @@
+.hello {
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+    background-color: aqua;
+    font-size: 20px;
+    border: 2px solid black;    
+    margin: 0 auto;
+}
+    
